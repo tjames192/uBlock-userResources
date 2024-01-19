@@ -7,10 +7,16 @@ allows running custom script on webpage or all webpages
 3. navigate to 'My Filters' in your uBlock Origin settings
 4. < hostname or wildcard >##+js(...) indicates scriptlet injection
 
+use https://www.jsdelivr.com/ to deliver js files vs direct from github due to mime issues.
+example
+```
+userResourcesLocation https://cdn.jsdelivr.net/gh/tjames192/uBlock-userResources@master/resource.js
+```
+
 ## example
 ```
 www.reddit.com##+js(rf, https://old.reddit.com)
 ```
 
-# ref
+# reference
 https://www.xaloez.com/blog/UblockOriginScriptlets/index.html
