@@ -1,5 +1,5 @@
 /// redirect-frontend.js
-/// alias rf.js
+/// alias redirect.js
 /**
  * @example
  * www.reddit.com##+js(rf, https://old.reddit.com)
