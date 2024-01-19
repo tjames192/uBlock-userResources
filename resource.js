@@ -1,4 +1,8 @@
-/// redirect-frontend.js
+/*
+example scriptlets for ublock
+https://raw.githubusercontent.com/gorhill/uBlock/784ebb09050cb6617bd857f7c6a4311ac9649ce9/assets/resources/scriptlets.js
+*/
+/// redirect.js
 /// alias redirect.js
 /**
  * @example
