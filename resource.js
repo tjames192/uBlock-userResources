@@ -2,7 +2,7 @@
 /// alias redirect.js
 /**
  * @example
- * www.reddit.com##+js(rf, https://old.reddit.com)
+ * www.reddit.com##+js(redirect, https://old.reddit.com)
  * */
 (function() {
     "use strict";
