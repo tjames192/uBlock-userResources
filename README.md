@@ -15,7 +15,7 @@ userResourcesLocation https://cdn.jsdelivr.net/gh/tjames192/uBlock-userResources
 
 ## example
 ```
-www.reddit.com##+js(rf, https://old.reddit.com)
+www.reddit.com##+js(rwl, https://old.reddit.com)
 ```
 
 # reference
